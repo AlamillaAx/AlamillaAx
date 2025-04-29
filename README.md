@@ -1,10 +1,10 @@
 
 ## 🪷 Hi, I'm Axel! 
 
-I'm a Robotics Engineer by career and a developer by passion. I consider myself as a course-a-Holic, I'm always seeking for something new to learn. 
-Currently I'm working as a Maximo IBM developer, creating competitive, escalable and reusable solutions for clients like Grupo Bimbo, Curacao Refinery Utilities, Canales de Colombia, etc. 
+I'm a Robotics Engineer by career and a developer by passion. I consider myself a course-a-Holic; I'm always seeking something new to learn. 
+Currently, I'm working as a Maximo IBM developer, creating competitive, scalable, and reusable solutions for clients like Grupo Bimbo, Curacao Refinery Utilities, Canales de Colombia, etc. 
 
-Now I'm focused on learning more about the backend area with JAVA and Python. 
+Nowadays, I'm focused on learning more about the backend area with JAVA and Python. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/axela3b/) 
 <p align="center">
